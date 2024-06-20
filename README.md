@@ -1,7 +1,8 @@
 # Dev_Notes
 
 # Imagem Projeto
-![image](https://github.com/MatheusFormentin/Dev_Notes/assets/164422675/4dedaed8-0000-4786-b285-b73ab0d065b6)
+![image](https://github.com/MatheusFormentin/Dev_Notes/assets/164422675/77ed2f60-42eb-4dd6-a649-ef80792be605)
+
 
 Este repositório contém o código-fonte do meu site ultilizado a fim de testar conhecimenos a cerca das linguagens de programação.
 
