@@ -16,7 +16,7 @@ Design e Usabilidade Design Responsivo: Totalmente adaptável a diferentes taman
 
 Contribuições e Contato Estou aberto a colaborações e feedback. Se você tiver sugestões ou quiser discutir possíveis projetos, por favor, entre em contato comigo:
 
-Site: Th Logística
+Site: DevNotes
 
 Email: formentinmatheus@gmail.com
 
